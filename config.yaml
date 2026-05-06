@@ -1,0 +1,11 @@
+login:
+  local: "127.0.0.1:2106"
+  remote: "127.0.1.1:2106"
+
+game:
+  local: "127.0.0.1:7777"
+  remote: "127.0.1.1:7777"
+
+logging:
+  enabled: true
+  filename: "packets.log"
