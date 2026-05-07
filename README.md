@@ -36,13 +36,14 @@ logging:
 <br>
 
 #### Флаги (переопределяют конфиг)
-
+```bash
 --config <path>        | путь к конфигу (по умолч. config.yaml)
 --login-local <addr>   | адрес логин-прокси
 --login-remote <addr>  | куда форвардить логин
 --game-local <addr>    | адрес гейм-прокси
 --game-remote <addr>   | куда форвардить гейм
  --out <file>          | файл для лога пакетов
+```
 
 <br>
 
